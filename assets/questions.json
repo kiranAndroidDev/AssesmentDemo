@@ -1,0 +1,222 @@
+{
+  "questions": [
+    {
+      "qId": "1",
+      "questions": "What is result of 2+2= ?",
+      "answerId": "3",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 2 "
+        },
+        {
+          "code": "2",
+          "value": " 3 "
+        },
+        {
+          "code": "3",
+          "value": " 4 "
+        },
+        {
+          "code": "4",
+          "value": " 5 "
+        }
+      ]
+    },
+    {
+      "qId": "2",
+      "questions": "What is result of 23+31= ?",
+      "answerId": "4",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 23 "
+        },
+        {
+          "code": "2",
+          "value": " 31 "
+        },
+        {
+          "code": "3",
+          "value": " 45 "
+        },
+        {
+          "code": "4",
+          "value": " 54 "
+        }
+      ]
+    },
+    {
+      "qId": "3",
+      "questions": "Name of prime minister of India is Narendra Modi",
+      "answerId": "1",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " Yes "
+        },
+        {
+          "code": "2",
+          "value": " No "
+        }
+      ]
+    },
+    {
+      "qId": "4",
+      "questions": "What is result of 2-2= ?",
+      "answerId": "3",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 2 "
+        },
+        {
+          "code": "2",
+          "value": " 3 "
+        },
+        {
+          "code": "3",
+          "value": " 0 "
+        },
+        {
+          "code": "4",
+          "value": " 5 "
+        }
+      ]
+    },
+    {
+      "qId": "5",
+      "questions": "What is equal of 1 Billion = ?",
+      "answerId": "3",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 10 million "
+        },
+        {
+          "code": "2",
+          "value": " 100 million "
+        },
+        {
+          "code": "3",
+          "value": " 1000 million "
+        },
+        {
+          "code": "4",
+          "value": " 10000 million "
+        }
+      ]
+    },
+    {
+      "qId": "6",
+      "questions": "What is result of 2 - 3 = ?",
+      "answerId": "1",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " -1 "
+        },
+        {
+          "code": "2",
+          "value": " 0 "
+        },
+        {
+          "code": "3",
+          "value": " 1 "
+        },
+        {
+          "code": "4",
+          "value": " 2 "
+        }
+      ]
+    },
+    {
+      "qId": "7",
+      "questions": "What is result of 10/2= ?",
+      "answerId": "6",
+      "answeres": [
+        {
+          "code": "7",
+          "value": " 4 "
+        },
+        {
+          "code": "6",
+          "value": " 5 "
+        },
+        {
+          "code": "5",
+          "value": " 6 "
+        }
+      ]
+    },
+    {
+      "qId": "8",
+      "questions": "What is result of 15*15= ?",
+      "answerId": "6",
+      "answeres": [
+        {
+          "code": "3",
+          "value": " 222 "
+        },
+        {
+          "code": "4",
+          "value": " 111 "
+        },
+        {
+          "code": "5",
+          "value": " 325 "
+        },
+        {
+          "code": "6",
+          "value": " 225 "
+        }
+      ]
+    },
+    {
+      "qId": "9",
+      "questions": "What is result of 11*11= ?",
+      "answerId": "1",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 121 "
+        },
+        {
+          "code": "2",
+          "value": " 131 "
+        },
+        {
+          "code": "3",
+          "value": " 142 "
+        },
+        {
+          "code": "4",
+          "value": " 211 "
+        }
+      ]
+    },
+    {
+      "qId": "10",
+      "questions": "What is result of 12*12= ?",
+      "answerId": "2",
+      "answeres": [
+        {
+          "code": "1",
+          "value": " 124 "
+        },
+        {
+          "code": "2",
+          "value": " 144 "
+        },
+        {
+          "code": "3",
+          "value": " 234 "
+        },
+        {
+          "code": "4",
+          "value": " 148 "
+        }
+      ]
+    }
+  ]
+}
